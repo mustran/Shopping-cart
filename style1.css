@@ -1,0 +1,28 @@
+body {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+.fa-star-o {
+    font-size: 20px;
+}
+
+.fa-star {
+    color: rgb(240, 224, 78);
+    font-size: 20px;
+}
+
+.inStock{
+    color: rgb(34, 247, 34);
+}
+
+.fontC{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imgC{
+    opacity: 0.7;
+    width: 100%;
+}
+
